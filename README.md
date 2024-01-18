@@ -1,0 +1,3 @@
+- Use https://remix.ethereum.org/ to test it out
+- Put the file inside the folder contracts
+- Deploy and Play
